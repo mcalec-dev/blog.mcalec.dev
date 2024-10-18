@@ -133,6 +133,7 @@ GEM
     zeitwerk (2.7.0)
 
 PLATFORMS
+  x86_64-linux
   x64-mingw-ucrt
 
 DEPENDENCIES
