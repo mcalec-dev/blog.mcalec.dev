@@ -1,0 +1,18 @@
+- type: github
+  icon: "fab fa-github"
+
+- type: bluesky
+  icon: 'fa-brands fa-bluesky'
+  url: 'https://bsky.app/profile/mcalec.dev'
+
+- type: youtube
+  icon: 'fa-brands fa-youtube'
+  url: https://www.youtube.com/@McAlec1
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true
